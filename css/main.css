@@ -10,10 +10,6 @@ tbody tr:nth-child(odd) {
   background-color: #e2e2e2;
 }
 
-tfoot {
-  font-weight: bold;
-}
-
 .year {
   width: 7em;
 }
@@ -35,4 +31,5 @@ table {
   .table-wrapper {
     overflow: visible;
   }
+
 }
